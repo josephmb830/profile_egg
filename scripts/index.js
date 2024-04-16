@@ -1,4 +1,4 @@
-console.log("conexión exitosa")
+console.log("conexión exitosa");
 /* seleccionar una etiqueta del HTML */
 const selector = document.getElementById("mensaje");
 /* escribir dentro de esa etiqueta con JS */
